@@ -1,20 +1,20 @@
-#This is a demo binary! 
+# This is a demo binary! 
 
-##**Do not use it for production.**
+## **Do not use it for production.**
 
 `git clone https://github.com/meetxtt/xtt.git`
 
 `cd xtt/`
 
-###RUN:
+### RUN:
 `chmod +x xtt_qBDHmTO`
 `chmod +x install.sh`
 
-###RUN:
+### RUN:
 `./install.sh`
 (follow the setup process.)
 
-##RUN:
+### RUN:
 `./xtt_qBDHmTO -bind 0.0.0.0 -port 4877`
 (Or any other port.)
  
